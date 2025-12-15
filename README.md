@@ -30,6 +30,12 @@ This project is using numerous AIs (bots) to compete against each other in the g
 - Comprehensive evaluation with confidence intervals
 - Performance comparison against baseline logic bot
 
+## 🎮 Game Parameters
+### Difficulty Levels:
+- Easy: 22×22 board with 50 mines (≈10.3% density)
+- Medium: 22×22 board with 80 mines (≈16.5% density)
+- Hard: 22×22 board with 100 mines (≈20.7% density)
+
 ## 📊 Performance Metrics
 
 ### Logic Bot vs Neural Bot
