@@ -82,15 +82,15 @@ Actor Training (6 epochs):
 ## 📈 Performance Summary
 <img width="686" height="219" alt="Screenshot 2025-12-14 at 7 44 00 PM" src="https://github.com/user-attachments/assets/8c5db2a8-2c2d-436f-a46d-06d1e98ddfe4" />
 
-### 🎯 Overall Project Achievements
+## 🎯 Overall Project Achievements
 
-#### ✅ Successfully Demonstrated:
+### ✅ Successfully Demonstrated:
 - Neural networks can learn Minesweeper - Achieved 64-70% win rates
 - Sequential reasoning helps - More thinking steps → better decisions
 - Actor-critic learning principles - Critic learned to predict survival (R^2 = 0.501)
 - Comprehensive evaluation framework - Statistical comparisons with confidence intervals
 
-#### 🔍 Key Technical Insights:
+### 🔍 Key Technical Insights:
 - Data quality matters: Critic needed diverse survival outcomes to learn
 - Conservative vs aggressive: Neural bots play faster but riskier
 - Thinking time trade-off: More computation improves accuracy but increases inference time
